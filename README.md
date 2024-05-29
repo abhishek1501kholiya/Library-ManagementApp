@@ -22,7 +22,8 @@ This command will download all the dependencies and packages required to run the
 
 Step 2 -  
 
-```  expo start  
+```
+expo start  
 ```  
 This command will start the development server and after the development server has started you can test it on the web, mobile or simluator.  
 
