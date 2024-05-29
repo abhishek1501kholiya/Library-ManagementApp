@@ -1,4 +1,4 @@
-# Library ManagementApp
+# Library Management App
 Library Management is a mobile app for managing the books in a library.  
 
 # Description
