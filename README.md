@@ -23,15 +23,15 @@ Step 2 -
 ```expo start```
 This command will start the development server and after the development server has started you can test it on the web, mobile or simluator.  
 
-*for web*
+*for web*  
 type **w** and it will open a new tab to show you the app  
 
-*for mobile*
+*for mobile*  
 you will have to first install the expo app on your mobile phone through **App store** or **Play store** and then scan the code on the terminal.
 
-*for simluator*
+*for simluator*  
 you can type **i** to run it on a simluator
 
-Thank you for taking the time to check out this repository
+Thank you for taking the time to check out this repository  
 Keep coding
 
