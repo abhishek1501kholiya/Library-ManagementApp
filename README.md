@@ -34,7 +34,9 @@ type **w** and it will open a new tab to show you the app
 you will have to first install the expo app on your mobile phone through **App store** or **Play store** and then scan the code on the terminal.
 
 *for simulator*  
-you can type **i** to run it on a simluator
+you can type **i** to run it on a simluator  
+
+Note: in the Config.js you must use your own firebase credentials! otherwise it will not work and also never share your credentials like i did, when i created this i was a kid and thought who cares?  
 
 Thank you for taking the time to check out this repository  
 Keep coding
